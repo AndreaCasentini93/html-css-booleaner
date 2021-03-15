@@ -1,5 +1,5 @@
 /* header page */
-#blu {
+header {
     width: 1020px;
     height: 90px;
     background-color: rgb(78, 160, 255);
@@ -40,12 +40,28 @@ h2 {
 }
 /* /title */
 
-/* text 1 */
+/* text 1-2 */
 p {
     font-size: 18px;
 }
 .color_yellow {
     background-color: yellow;
 }
-/* text 1 */
+/* text 1-2 */
+
+/* table */
+thead{
+    color: white;
+    background-color: rgb(32, 169, 229);
+}
+th {
+    text-align: left;
+}
+.th_1 {
+    width: 200px;
+}
+.blue_cells {
+    background-color: rgb(177, 229, 242);
+}
+/* /table */
 /* /body page */
