@@ -63,3 +63,22 @@ th {
 }
 /* /table */
 /* /body page */
+
+/* closing page */
+#monitor {
+    background-image: url(img/monitor.jpg);
+    background-size: cover;
+    width: 312px;
+    height: 208px;
+}
+#graph {
+    background-image: url(img/graph.jpg);
+    background-size: cover;
+    width: 312px;
+    height: 208px;
+}
+.text_photo {
+    color: white;
+    text-align: center;
+}
+/* closing page */
