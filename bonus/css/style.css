@@ -1,0 +1,75 @@
+/* header page */
+header {
+    width: 100%;
+    height: 90px;
+    background-color: rgb(78, 160, 255);
+    position: relative;
+}
+#pattern {
+    background-image: url(img/pattern.png);
+    background-size: contain;
+    height: 100%;
+}
+#logo {
+    background-image: url(img/logo.svg);
+    background-size: cover;
+    width: 235px;
+    height: 50px;
+    position: absolute;
+    bottom: 0px;
+}
+/* /header page */
+
+/* body page */
+/* title */
+main {
+    width: 1020px;
+    margin: auto;
+}
+h1{
+    font-size: 40px;
+}
+h2 {
+    font-size: 18px;
+    color: rgb(128, 128, 128);
+}
+.color_blue {
+    color: rgb(78, 160, 255);
+}
+.small_text {
+    font-size: 15px;
+}
+/* /title */
+
+/* text 1-2 */
+p {
+    font-size: 18px;
+}
+.color_yellow {
+    background-color: yellow;
+}
+/* text 1-2 */
+
+/* table */
+thead{
+    color: white;
+    background-color: rgb(32, 169, 229);
+}
+th {
+    text-align: left;
+}
+.th_1 {
+    width: 200px;
+}
+.blue_cells {
+    background-color: rgb(177, 229, 242);
+}
+/* /table */
+/* /body page */
+
+/* closing page */
+footer {
+    width: 1020px;
+    margin: auto;
+}
+/* /closing page */
