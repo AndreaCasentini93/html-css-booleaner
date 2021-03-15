@@ -32,7 +32,7 @@ h2 {
     color: rgb(78, 160, 255);
 }
 .small_text {
-    font-size: 20px;
+    font-size: 18px;
 }
 /* /title */
 /* images */
@@ -53,7 +53,7 @@ h2 {
 /* /images */
 /* text 1-2 */
 p {
-    font-size: 28px;
+    font-size: 25px;
 }
 .color_yellow {
     background-color: yellow;
@@ -61,7 +61,7 @@ p {
 /* /text 1-2 */
 /* unordered list */
 li {
-    font-size: 28px;
+    font-size: 25px;
 }
 /* /unordered list */
 /* table */
@@ -79,7 +79,7 @@ th {
     background-color: rgb(177, 229, 242);
 }
 td{
-    font-size: 28px;
+    font-size: 25px;
 }
 /* /table */
 /* /body page */
