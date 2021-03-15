@@ -55,7 +55,7 @@ thead{
 th {
     text-align: left;
 }
-.th_1 {
+.th_width {
     width: 200px;
 }
 .blue_cells {
@@ -81,4 +81,4 @@ th {
     color: white;
     text-align: center;
 }
-/* closing page */
+/* /closing page */
