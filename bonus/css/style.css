@@ -41,6 +41,22 @@ h2 {
     font-size: 15px;
 }
 /* /title */
+/* images */
+.tim_1_image {
+    background-image: url(../img/tim-1.jpg);
+    background-size: cover;
+    width: 48%;
+    height: 400px;
+    display: inline-block;
+}
+.tim_2_image {
+    background-image: url(../img/tim-2.jpg);
+    background-size: cover;
+    width: 48%;
+    height: 400px;
+    display: inline-block;
+}
+/* /images */
 /* text 1-2 */
 p {
     font-size: 18px;
@@ -49,6 +65,11 @@ p {
     background-color: yellow;
 }
 /* /text 1-2 */
+/* unordered list */
+li {
+    font-size: auto;
+}
+/* /unordered list */
 /* table */
 thead{
     color: white;
@@ -62,6 +83,9 @@ th {
 }
 .blue_cells {
     background-color: rgb(177, 229, 242);
+}
+td {
+    font-size: auto;
 }
 /* /table */
 /* /body page */
