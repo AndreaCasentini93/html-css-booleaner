@@ -36,14 +36,14 @@ h2 {
 }
 /* /title */
 /* images */
-.tim_1_image {
+#tim_1_image {
     background-image: url(../img/tim-1.jpg);
     background-size: cover;
     width: 49%;
     height: 600px;
     display: inline-block;
 }
-.tim_2_image {
+#tim_2_image {
     background-image: url(../img/tim-2.jpg);
     background-size: cover;
     width: 49%;
